@@ -1,8 +1,8 @@
 {
-  "name": "expresstest",
+  "name": "testapp",
   "version": "1.0.0",
   "description": "practicing for an interview",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,10 +16,8 @@
     "url": "https://github.com/khirshah/expresstest/issues"
   },
   "homepage": "https://github.com/khirshah/expresstest#readme",
-  "dependencies": {
-    "express": "^4.16.4"
-  },
   "devDependencies": {
-    "body-parser": "^1.19.0"
+    "http": "0.0.0",
+    "qs": "^6.7.0"
   }
 }
