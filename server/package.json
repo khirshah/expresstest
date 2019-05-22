@@ -18,6 +18,8 @@
   "homepage": "https://github.com/khirshah/expresstest#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "express-async-handler": "^1.1.4",
+    "mongoose": "^5.5.10",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
